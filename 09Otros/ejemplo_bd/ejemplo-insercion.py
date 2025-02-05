@@ -5,7 +5,7 @@ try:
         host="localhost",
         user="root",
         password="abc123.",
-        database="instituto"
+        
     )
 
     cursor = conexion.cursor()
